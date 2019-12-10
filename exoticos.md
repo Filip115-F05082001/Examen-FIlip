@@ -5,3 +5,7 @@
 * Bora Bora
 
 * Phuket
+
+* Maldivas
+* Islas virgenes britanicas
+
