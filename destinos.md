@@ -2,6 +2,8 @@
 
 * Hawaii
 
-*Islas Seychelles
+* Puerto Rico
 
-*Puerto Rico
+* Nueva Zelanda
+
+* Polinesia Francesa
