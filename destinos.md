@@ -1,7 +1,9 @@
 #Destinos de vacaciones
 
-* Hawaii
-
 *Islas Seychelles
 
 *Puerto Rico
+
+*Santorini 
+
+*La Gran Barrera de Coral
